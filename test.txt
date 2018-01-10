@@ -1,0 +1,12 @@
++-----------------------+
++    -   Option 2 -     +
++                       +
++-----------------------+
+
+
+Technology	
+
+(Ansible, Jenkins, Nexus and GitLab)
+
+
+:) 
